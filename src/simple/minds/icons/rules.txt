@@ -1,0 +1,13 @@
+"<html>"+
+	  "1. Only solo entries are eligible" + "<br><br>" +
+	  "2. The decision of the Simple Minds quiz will be final and will not be subjected to any change" + "<br><br>" +
+	  "3. The participant shall not be allowed to use mobile and smartwatches" + "<br><br>" +
+	  "4. The questions shall be in the form of multiple choice objective type questions" + "<br><br>" +
+	  "5. Audience/Supporters shall not give any hints or clues to the participant" + "<br><br>" +
+	  "6. The participant would be given a set of question paper containing 10 multiple choice objective type question" + "<br><br>" +
+	  "7. For each question there will be 4 options, out of which only 1 is true" + "<br><br>" +
+	  "8. There is a time limit of 15 seconds for each question" + "<br><br>" +
+	  "9. Participant will get 10 marks for correct answer and no negative marks for wrong answer" + "<br><br>" +
+	  "10. There will be a 50-50 lifeline means out of four options, 2 wrong answers will be wiped out" + "<br><br>" +
+	  "11. 50-50 Lifeline can be used only once in this quiz" + "<br><br>" +
+"<html>"
